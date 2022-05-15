@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 🏆 12 Contributions in the Year 2022
  > 
 > 📦 25.7 kB Used in GitHub's Storage 
  > 
@@ -36,21 +38,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    6 commits      ██████████████████░░░░░░░   75.0% 
-🌃 Evening    1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌞 Morning    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+🌆 Daytime    7 commits      ███████████████████░░░░░░   77.78% 
+🌃 Evening    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Monday       1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Thursday     1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Wednesday    1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Thursday     1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     5 commits      ███████████████░░░░░░░░░░   62.5% 
+Saturday     6 commits      ████████████████░░░░░░░░░   66.67% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -60,10 +62,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Assignment               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -77,10 +79,6 @@ Python                   2 repos             ███████░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/WK-ING/WK-ING/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/05/2022 09:00:26 UTC
+ Last Updated on 15/05/2022 01:59:12 UTC
 <!--END_SECTION:waka-->
