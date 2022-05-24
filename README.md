@@ -62,7 +62,7 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 23/05/2022 01:48:59 UTC
+ Last Updated on 24/05/2022 01:53:24 UTC
 <!--END_SECTION:waka-->
