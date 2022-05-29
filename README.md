@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 28/05/2022 01:46:17 UTC
+ Last Updated on 29/05/2022 02:00:44 UTC
 <!--END_SECTION:waka-->
