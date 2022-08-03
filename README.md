@@ -62,10 +62,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          11 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +81,5 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/08/2022 02:20:42 UTC
+ Last Updated on 03/08/2022 02:02:32 UTC
 <!--END_SECTION:waka-->
