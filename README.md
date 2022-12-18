@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Kun, and I'm currently a fresh postgraduate student graduated from CUHK. My interests are in Cyber Security, and I love to learn and explore knowledge about security, like CTF games, cryptography, blockchain, etc..
+
+- 🌱 I’m currently learning post-quantum cryptography.
+- 📫 How to reach me: any problem of my projects please open issues directly. 
 
 <!--
 **WK-ING/WK-ING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
