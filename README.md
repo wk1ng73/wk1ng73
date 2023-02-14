@@ -1,7 +1,8 @@
 ### Hi there 👋
-I'm Kun, and I'm currently a fresh postgraduate student graduated from CUHK. My interests are in Cyber Security, and I love to learn and explore knowledge about security, like CTF games, cryptography, blockchain, etc..
+I'm Kun, and I'm currently a fresh postgraduate student graduated from CUHK. My interests are in Cyber Security, and I love to learn and explore new knowledge about security, like CTF games, cryptography, blockchain, etc..
 
-- 🌱 I’m currently learning post-quantum cryptography.
+- 🌱 I’m currently learning post-quantum cryptography, Golang and Hyperledger Fabric.
+- 😄 Pronouns: she.
 - 📫 How to reach me: any problem of my projects please open issues directly. 
 
 <!--
