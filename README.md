@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Kun, and I'm currently a fresh postgraduate student graduated from CUHK. My interests are in Cyber Security, and I love to learn and explore new knowledge about security, like CTF games, cryptography, blockchain, etc..
+Hi, I'm Kun! I'm an engineer at ASTRI, and I recently completed my Master's degree at CUHK. Cyber security is one of my main interests, and I'm always looking for new ways to expand my knowledge in this field - from CTF games and cryptography to blockchain. It's so exciting to learn something new every day!
 
 - 🌱 I’m currently learning post-quantum cryptography, Golang and Hyperledger Fabric.
-- 😄 Pronouns: she.
-- 📫 How to reach me: any problem of my projects please open issues directly. 
+- 😄 Pronouns: She.
+- 📫 How to reach me: kunwang@alumni.cuhk.net
 
 <!--
 **WK-ING/WK-ING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
