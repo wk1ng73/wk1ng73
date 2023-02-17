@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 4 Contributions in the Year 2023
  > 
-> 📦 187.4 kB Used in GitHub's Storage 
+> 📦 187.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -67,11 +67,12 @@ Sunday           4 commits       ████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 9 mins        █████████████████████████   100.00 % 
+Go                       2 hrs 9 mins        ████████████████████████░   98.33 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-kun                      2 hrs 8 mins        █████████████████████████   99.65 % 
-example                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+kun                      2 hrs 10 mins       █████████████████████████   99.66 % 
+example                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 ```
 
@@ -87,5 +88,5 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 
 
 
- Last Updated on 16/02/2023 01:25:33 UTC
+ Last Updated on 17/02/2023 01:24:06 UTC
 <!--END_SECTION:waka-->
