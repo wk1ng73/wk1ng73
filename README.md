@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -89,5 +89,5 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 
 
 
- Last Updated on 18/02/2023 01:19:16 UTC
+ Last Updated on 19/02/2023 01:23:44 UTC
 <!--END_SECTION:waka-->
