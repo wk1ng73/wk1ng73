@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,16 +65,14 @@ Sunday                   4 commits           █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               37 mins             ██████████████░░░░░░░░░░░   56.30 % 
-Python                   28 mins             ███████████░░░░░░░░░░░░░░   42.28 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               37 mins             ████████████████████████░   97.54 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🐱‍💻 Projects: 
-fabric-samples           37 mins             ██████████████░░░░░░░░░░░   56.30 % 
-myproj                   28 mins             ███████████░░░░░░░░░░░░░░   42.28 % 
-ssh_admin                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+fabric-samples           37 mins             ████████████████████████░   97.54 % 
+ssh_admin                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +87,5 @@ Java                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 04/03/2023 01:20:08 UTC
+ Last Updated on 05/03/2023 01:40:52 UTC
 <!--END_SECTION:waka-->
