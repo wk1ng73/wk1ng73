@@ -1,6 +1,7 @@
 ### Hi there 👋
 Hi, I'm Kun! I'm an engineer at ASTRI, and I recently completed my Master's degree at CUHK. Cyber security is one of my main interests, and I'm always looking for new ways to expand my knowledge in this field - from CTF games and cryptography to blockchain. It's so exciting to learn something new every day!
 
+- 🔭 I’m currently working on Blockchain Development.
 - 🌱 I’m currently learning post-quantum cryptography, Golang and Hyperledger Fabric.
 - 😄 Pronouns: She.
 - 📫 How to reach me: kunwang@alumni.cuhk.net
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue) -->
 
 **🐱 My GitHub Data** 
 
