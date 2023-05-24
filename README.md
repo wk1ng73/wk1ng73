@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
 
@@ -66,13 +66,13 @@ Sunday                   4 commits           ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 18 mins       ███████████████████░░░░░░   77.49 % 
-Bash                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Go                       2 hrs 19 mins       ██████████████████░░░░░░░   71.42 % 
+Bash                     51 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-fabric-samples           4 hrs 15 mins       █████████████████████████   100.00 % 
+fabric-samples           3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +87,5 @@ Java                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 23/05/2023 01:13:37 UTC
+ Last Updated on 24/05/2023 01:16:01 UTC
 <!--END_SECTION:waka-->
