@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -92,5 +92,5 @@ Java                     2 repos             █████░░░░░░�
 
 
 
- Last Updated on 11/06/2023 01:41:51 UTC
+ Last Updated on 12/06/2023 01:27:13 UTC
 <!--END_SECTION:waka-->
