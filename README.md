@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=WK-ING&show_icons=true&theme=radical)
+![Kun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk1ng73&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WK-ING&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wk1ng73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
