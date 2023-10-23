@@ -4,7 +4,7 @@ Hi, I'm Kun! I'm an engineer at ASTRI, and I recently completed my Master's degr
 - 🔭 I’m currently working on Blockchain Development.
 - 🌱 I’m currently learning post-quantum cryptography, Golang and Hyperledger Fabric.
 - 😄 Pronouns: She.
-- 📫 How to reach me: kunwang@alumni.cuhk.net
+- 📫 How to reach me: kunwang[AT]alumni.cuhk.net
 
 <!--
 **WK-ING/WK-ING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
