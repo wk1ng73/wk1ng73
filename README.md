@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Kun! I'm an engineer at ASTRI, and I recently completed my Master's degree at CUHK. Cyber security is one of my main interests, and I'm always looking for new ways to expand my knowledge in this field - from CTF games and cryptography to blockchain. It's so exciting to learn something new every day!
+Hi, I'm Kun! Cyber security is one of my main interests, and I'm always looking for new ways to expand my knowledge in this field - from CTF games and cryptography to blockchain. It's so exciting to learn something new every day!
 
 - 🔭 I’m currently working on Blockchain Development.
 - 🌱 I’m currently learning post-quantum cryptography, Golang and Hyperledger Fabric.
